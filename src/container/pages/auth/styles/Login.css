@@ -1,0 +1,33 @@
+/* .log_container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height:inherit;
+} */
+
+/* .left_side{
+    background-image: url('../../../../assets/image/svg/LoginImage.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 100%;
+    width: 100%;
+} */
+
+/* .right_side{
+    height: 100%;
+    width: 100%;
+} */
+
+/* .ptag :first-child{
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.ptag :nth-child(2){
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.ptag :checked{
+    color: white;
+    background-color: #55229E;
+} */
